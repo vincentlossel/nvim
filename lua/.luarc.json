@@ -1,0 +1,22 @@
+{
+    "workspace.library": [
+        "/Users/vincent/.config/nvim",
+        "/Users/vincent/.local/share/nvim/lazy/lazy.nvim",
+        "/Users/vincent/.local/share/nvim/lazy/rust-tools.nvim",
+        "/Users/vincent/.local/share/nvim/lazy/mason-lspconfig.nvim",
+        "/Users/vincent/.local/share/nvim/lazy/mason.nvim",
+        "/Users/vincent/.local/share/nvim/lazy/nvim-lspconfig",
+        "/Users/vincent/.local/share/nvim/lazy/cmp_luasnip",
+        "/Users/vincent/.local/share/nvim/lazy/LuaSnip",
+        "/Users/vincent/.local/share/nvim/lazy/cmp-nvim-lsp",
+        "/Users/vincent/.local/share/nvim/lazy/nvim-cmp",
+        "/Users/vincent/.local/share/nvim/lazy/nvim-autopairs",
+        "/Users/vincent/.local/share/nvim/lazy/lualine.nvim",
+        "/opt/homebrew/Cellar/neovim/0.9.0/share/nvim/runtime",
+        "/opt/homebrew/Cellar/neovim/0.9.0/lib/nvim",
+        "/Users/vincent/.local/state/nvim/lazy/readme",
+        "/Users/vincent/.local/share/nvim/lazy/cmp_luasnip/after",
+        "/Users/vincent/.local/share/nvim/lazy/cmp-nvim-lsp/after",
+        "${3rd}/luassert/library"
+    ]
+}
